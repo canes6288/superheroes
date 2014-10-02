@@ -1,0 +1,2 @@
+#!/bin/bash
+psql superheroes -f insert_superheroes.sql
